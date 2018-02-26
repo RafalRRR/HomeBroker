@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeBroker", "HomeBroker\HomeBroker.csproj", "{20FAE23E-B7D2-4D74-A9FC-E3D7AF7F099B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FAE23E-B7D2-4D74-A9FC-E3D7AF7F099B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FAE23E-B7D2-4D74-A9FC-E3D7AF7F099B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FAE23E-B7D2-4D74-A9FC-E3D7AF7F099B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FAE23E-B7D2-4D74-A9FC-E3D7AF7F099B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624315F5-D286-4E7B-AD88-2778A6EA9F69}
+	EndGlobalSection
+EndGlobal
