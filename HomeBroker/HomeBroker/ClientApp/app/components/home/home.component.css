@@ -1,0 +1,46 @@
+﻿.sideBar {
+    margin-bottom: 10px;
+    min-height: 230px;
+    text-align: center;
+    font-size: large;
+    ;
+}
+
+.sideAdwoRadc {
+    margin-bottom: 10px;
+    min-height: 310px;
+    text-align: center;
+    font-size: large;
+}
+
+.sideAplikanci {
+    margin-bottom: 15px;
+    min-height: 190px;
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+}
+
+.mainBar {
+    margin-bottom: 10px;
+    min-height: 560px;
+    text-align: center;
+    font-size: large;
+}
+
+.adwoColor {
+    background-color: #2E8B57;
+}
+
+.apliColor {
+    background-color: #3CB371;
+}
+
+
+.radcColor {
+    background-color: #4682B4
+}
+
+.notaColor {
+    background-color: #A9A9A9
+}

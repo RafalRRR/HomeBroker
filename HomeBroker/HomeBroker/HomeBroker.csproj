@@ -17,7 +17,19 @@
 
   <ItemGroup>
     <!-- Files not to publish (note that the 'dist' subfolders are re-added below) -->
+    <Compile Remove="Nowy folder1\**" />
+    <Compile Remove="Nowy folder2\**" />
+    <Compile Remove="Nowy folder\**" />
     <Content Remove="ClientApp\**" />
+    <Content Remove="Nowy folder1\**" />
+    <Content Remove="Nowy folder2\**" />
+    <Content Remove="Nowy folder\**" />
+    <EmbeddedResource Remove="Nowy folder1\**" />
+    <EmbeddedResource Remove="Nowy folder2\**" />
+    <EmbeddedResource Remove="Nowy folder\**" />
+    <None Remove="Nowy folder1\**" />
+    <None Remove="Nowy folder2\**" />
+    <None Remove="Nowy folder\**" />
   </ItemGroup>
 
   <Target Name="DebugRunWebpack" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('wwwroot\dist') ">
