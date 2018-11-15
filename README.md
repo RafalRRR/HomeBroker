@@ -1,2 +1,2 @@
 # HomeBroker
-Ćwiczenia, .core + angular
+Ćwiczenia, VisualStudio .Core + Angular 4.2
